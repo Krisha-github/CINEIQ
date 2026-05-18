@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.db
+data/raw/
+data/processed/
+mlruns/
+mlflow.db
+.env
