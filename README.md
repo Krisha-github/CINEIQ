@@ -178,8 +178,5 @@ Open `http://localhost:5000` to view experiment history.
 }
 ```
 
----
 
-## Author
-
-Built by Krisha Kapadia demonstrating end-to-end ML system design, NLP, API development, and data visualization.
+demo: https://drive.google.com/file/d/11q9H-zqd8S_ic_uYMRKoE9hh4gjK2iLp/view?usp=sharing
