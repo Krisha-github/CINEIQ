@@ -11,9 +11,6 @@ CINEIQ/
 ├── app/
 │   ├── api.py                        # FastAPI serving endpoints
 │   └── dashboard.py                  # Streamlit user dashboard
-├── data/
-│   ├── processed/                    # Cleaned and merged dataset
-│   └── raw/                          # Original datasets (not tracked by git)
 ├── src/
 │   ├── checkdata.py                  # Data inspection script
 │   ├── collaborative_recommender.py  # User-user collaborative filtering
@@ -24,8 +21,7 @@ CINEIQ/
 │   ├── preprocessing.py              # Data cleaning and feature engineering
 │   ├── sentiment.py                  # VADER + Logistic Regression reranker
 │   ├── svd_recommender.py            # SVD matrix factorization
-│   └── train_sentiment_model.py      # Trains sentiment model on IMDB 50K
-├── mlflow.db                         # MLflow experiment database
+│   └── train_sentiment_model.py      # Trains sentiment model on IMDB 50K                      
 ├── requirements.txt
 └── README.md
 ```
